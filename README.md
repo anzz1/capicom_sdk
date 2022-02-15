@@ -1,6 +1,6 @@
 # Microsoft CAPICOM 2.1.0.2 SDK
 
-Posted here for safe keeping since it's has become pretty hard to come by on the internet these days.
+Posted here for safe keeping since it has become pretty hard to come by on the internet these days.
 
 ### Installation:
 
